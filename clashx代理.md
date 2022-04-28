@@ -10,7 +10,7 @@
 
 ##### 	在此处写入你需要忽略代理的域名；如下图：
 
-![clashx](../img/clashx.png)
+![clashx](./img/clashx.png)
 
 ##### 	保存 - 应用，成功！
 
